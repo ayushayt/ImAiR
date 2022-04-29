@@ -1,0 +1,2 @@
+Contains the training and testing data from the publicly available dataset (http://bigdatalab.tau.ac.il/shared-resources/) after preprocessing.
+40 subjects data for training, 15 for testing.
